@@ -54,4 +54,4 @@ https://github.com/YOUR_USERNAME/lead-sniper-n8n/blob/main/My_workflow.json
 
 **Direct screenshot link:**
 ```
-https://github.com/YOUR_USERNAME/lead-sniper-n8n/blob/main/screenshot.png
+https://github.com/Arup7733/lead-sniper-n8n/screenshot.png
