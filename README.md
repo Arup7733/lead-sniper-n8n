@@ -49,7 +49,7 @@ After all uploads, you'll have these two links to submit:
 
 **Direct JSON file link:**
 ```
-https://github.com/YOUR_USERNAME/lead-sniper-n8n/blob/main/My_workflow.json
+(https://github.com/Arup7733/lead-sniper-n8n/blob/main/My%20workflow%20(3).json)
 ```
 
 **Direct screenshot link:**
