@@ -34,8 +34,7 @@ stargazers and sends enriched lead info to Discord using AI-generated pitches.
 - OpenAI GPT-4o-mini
 - Discord Webhook
 
-
-Step 4— Click Commit changes
+## Workflow Link -- https://lucid.app/lucidchart/7f5e4e8e-91d6-4abc-9b9b-4c3172ece84d/edit?viewport_loc=-53%2C112%2C1663%2C861%2C0_0&invitationId=inv_4782f2b8-3461-41d1-b949-0de10ef89530
 
 Part 6—submission links
 
