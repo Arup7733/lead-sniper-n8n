@@ -1,3 +1,4 @@
+# Personal api token for github may/maynot be working in some cases , if this error happens then create a api token from github and add it in http1 under headers(value) add that link after the token and it will start working.
 # lead-sniper-n8n
 Automated GitHub high-value lead tracker using n8n(Tested
 # Lead Sniper — n8n Workflow
@@ -32,13 +33,11 @@ stargazers and sends enriched lead info to Discord using AI-generated pitches.
 - GitHub REST API
 - OpenAI GPT-4o-mini
 - Discord Webhook
-```
+
 
 Step 4— Click Commit changes
 
 Part 6—submission links
-
-After all uploads, you'll have these two links to submit:
 
 Repo link (the main link):
 
