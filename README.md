@@ -44,7 +44,7 @@ After all uploads, you'll have these two links to submit:
 
 **Repo link** (the main link):
 ```
-https://github.com/YOUR_USERNAME/lead-sniper-n8n
+(https://github.com/Arup7733/lead-sniper-n8n)
 ```
 
 **Direct JSON file link:**
